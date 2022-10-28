@@ -1,5 +1,48 @@
 Jane's Banana Bread
 ---------------------
+<<<<<<< HEAD
+1/2 cup butter
+1/2 teaspoon vanilla
+
+Directions:
+3. Cream together butter and sugar.
+6. Add to creamed mixture.
+
+1/2 cup butter
+1 cup sugar
+
+1. Remove odd pots and pans from oven.
+5. Sift together flour, soda and salt.
+9. Pour into greased and floured loaf pan.
+
+2 eggs, beaten
+3 bananas, finely crushed
+
+2. Preheat oven to 350 degrees.
+7. Add vanilla.
+10. Bake at 350 degrees for 55 minutes.
+
+Time: 1 hour 5 minutes
+
+Ingredients:
+1 teaspoon baking soda
+
+Directions:
+7. Add vanilla.
+9. Pour into greased and floured loaf pan.
+
+Servings: 10
+
+1 1/2 cups flower
+
+3. Cream together butter and sugar.
+11. Keeps well, refrigerated.
+
+1/2 teaspoon salt
+
+4. Add eggs and crushed bananas. Combine well.
+9. Mix just until combined. Do not overmix.
+=======
 Time: 1 hour 5 minutes
 Servings: 10
 
@@ -17,3 +60,4 @@ Directions:
 10. Pour into greased and floured loaf pan.
 11. Keeps well, refrigerated.
 
+>>>>>>> cb10910b5bfcd1212c20175abe5a803a3cb39d6a
